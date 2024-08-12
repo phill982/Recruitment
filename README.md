@@ -2,6 +2,8 @@
 
 This recruitment automation system is designed to streamline the evaluation process of over 800 candidates by replacing the traditional numerical ranking system with a more robust and descriptive tag-based system. This custom coding solution processes scores, applies filters, and organizes data into a new Excel sheet, eliminating over 6 hours of manual sorting daily.
 
+# Given the sensitivity of recruitment data, a screenshot from a test file is used for demonstration purposes, ensuring that no confidential information is publicly shared.
+
 # Old Method
 Process: 3-4 chapter members would vote on each candidate using a numerical ranking system.
 
@@ -63,6 +65,6 @@ Even Split Handling: In cases of an even split, detailed information is provided
 # Technical and Usage Details
 Implementation Language: Python, utilizing the Pandas library for efficient data manipulation and Excel operations.
 
-Data Privacy: Given the sensitivity of recruitment data, a test file is used for demonstration purposes on platforms like GitHub, ensuring that no confidential information is publicly shared.
+
 
 
